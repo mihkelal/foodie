@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foodie_mihkal (0.1.0)
+    foodie_mihkal (0.1.1)
       activesupport
 
 GEM

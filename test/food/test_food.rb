@@ -11,5 +11,9 @@ module Foodie
     def test_anything_else_is_delicious
       assert_equal "Delicious!", Foodie::Food.portray("Not Broccoli")
     end
+
+    def test_pluralize_pluralizes_a_word
+      assert_equal "Tomatoes", Foodie::Food.pluralize("Tomato")
+    end
   end
 end

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foodie (0.1.0)
+    foodie_mihkal (0.1.0)
       activesupport
 
 GEM
@@ -46,7 +46,7 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  foodie!
+  foodie_mihkal!
   minitest (~> 5.0)
   rake (~> 13.0)
   rubocop (~> 1.21)
